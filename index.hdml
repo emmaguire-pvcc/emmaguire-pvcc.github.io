@@ -1,1 +1,49 @@
+<html>
+<head>
+	<title> Emma Maguire </title>
+</head>
+<body
+style="color:#020800; background-image:url(wp.cake.png);  background-color:#ecb7dc; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+<table width= 1000 border="5" style="color:#ffffff;background-color:#60a766; margin: auto;"> 
+	<tr style = "background-color: rgb(211, 235, 235);">
+<td><a href="index.html">Home</a></td>
+<td><a href="https://www.w3schools.com/html/">W3Schools</a></td>
+<td><a href="https://www.pvcc.edu/">PVCC</a></td>
+<td><a href="https://github.com/">GitHub</a></td>
+<td><a href="https://github.com/">GitHub</a></td>
 
+
+	</tr>
+
+	<tr> <td colspan="5">
+
+	<h1> My Favorite Things</h1>
+        <h2> Emma Maguire</h2>
+	<h3> My Favorite Food</h3>
+	<ol> 
+	<li>Eggs</li>
+	<li>Tomato Soup</li>
+	<li>Feied Rice</li>
+	<li>Cauliflower</li>
+<li> Candy </il>
+<ul>
+	<a href="https://www.dylanscandybar.com/">Have Fun at the Candy Shop!</a>
+	
+	<li>Reese PB Cup</li>
+	<li>Skittles</li>
+	<li>Twix</li>
+	<li>M&M's</li>
+</ul>
+<img src="mc.png" width="400"/>
+ 
+<h3> Favorite Electronic Games</h3>
+ <ol> 
+ <li>Minecraft</li>
+ <li>Pong</li>
+ <li>Super Mario</li>
+ <li>Snake Game</li>
+</td>
+</tr>
+</table>
+</body>
+</html>
